@@ -26,6 +26,7 @@ host:(`$":",)'o`host;corr:$[`corr in!o;::;{(x_`corr)[;&3>x`corr]}];e:("e"$%;%)`f
 
 
 / Change 1
+/ Change 2
 
 
 mf:`cusip`wi`date`name`sym`ex`uot;m:$[@!d:`/:dst,`mas;mf#0!. d;()];ma:{m@:&~~':`date`name_m@:<m,:mf#x@&~x[`cusip]in``0`000000000}
